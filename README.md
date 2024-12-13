@@ -10,18 +10,6 @@
 
 ---
 
-## 🌟 **GitHub Stats & Achievements**
-
-### **🔥 Abdullah's GitHub Stats**
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahOwais&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true)
-
----
-
-### **🔥 Most Used Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahOwais&layout=compact&theme=dark&hide_border=true)](https://github.com/AbdullahOwais)
-
----
-
 ### **🌱 Current Work**
 **Projects In Progress:**
 - 🌐 **Animated Websites** (Creating interactive, engaging, and visually stunning websites with animations!)
