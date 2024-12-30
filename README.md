@@ -55,7 +55,6 @@
 ## 💬 **Let’s Connect!**
 - 📧 **Email:** [abdullahowaisofficial@gmail.com](mailto:abdullahowaisofficial@gmail.com)  
 - 📸 **Instagram:** [CodeMysterio](https://www.instagram.com/codemysterio/)
-- 🌍 **Website/Blog:** [Your Portfolio Link](YourPortfolioURL)  
 - 💼 **LinkedIn:** [Abdullah Owais](https://www.linkedin.com/in/abdullah-owais-52a129285/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B813ByNQrR8%2BvsVp4yMaa1w%3D%3D)
 
 ---
